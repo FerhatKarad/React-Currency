@@ -1,0 +1,37 @@
+{
+  "usd": {
+    "name": "US Dollar",
+    "symbol": "$",
+    "code": "USD",
+    "img": "https://i.imgur.com/Hz4j9OS.jpg",
+    "exchangeRate": 1
+  },
+  "eur": {
+    "name": "Euro",
+    "symbol": "€",
+    "code": "EUR",
+    "img": "https://i.imgur.com/VQFyOr5.jpg",
+    "exchangeRate": 1.19
+  },
+  "jpy": {
+    "name": "Japanese Yen",
+    "symbol": "¥",
+    "code": "JPY",
+    "img": "https://i.imgur.com/1DVNg5X.jpg",
+    "exchangeRate": 0.009
+  },
+  "rub": {
+    "name": "Russian Ruble",
+    "symbol": "₽",
+    "code": "RUB",
+    "img": "https://i.imgur.com/oVNJ3Ey.jpg",
+    "exchangeRate": 0.015
+  },
+  "krw": {
+    "name": "South Korean Won",
+    "symbol": "₩",
+    "code": "KRW",
+    "img": "https://i.imgur.com/0pXiz9R.jpg",
+    "exchangeRate": 0.00088
+  }
+}
